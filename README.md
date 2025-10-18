@@ -43,7 +43,6 @@ As colisões são verificadas com base nas posições dos blocos, garantindo uma
    ```bash
     python Snake.py  (para executar o projeto.)
 2. 
-    ```.exe
 Na pasta raiz do projeto copie o arquivo **Snake-Game_v1.1.exe** para aréa de trabalho.
 Agora execute o arquivo **Snake-Game_v1.1.exe** é uma versão compilada do game.
 
